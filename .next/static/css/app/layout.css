@@ -678,6 +678,9 @@ video {
 .w-screen {
   width: 100vw;
 }
+.min-w-\[6rem\] {
+  min-width: 6rem;
+}
 .flex-1 {
   flex: 1 1 0%;
 }
